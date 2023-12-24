@@ -6,12 +6,10 @@
   }
   
   body {
-    border: dashed 5px green;
     height: 100vh;
   }
   
   nav {
-    border: solid 3px red;
     margin: 2%;
     display: flex;
     align-items: center;
@@ -19,14 +17,12 @@
   }
   
   .logo {
-    border: solid 2px grey;
     font-size: 32px;
     font-weight: 600;
     font-family: cursive;
   }
   
   nav ul {
-    border: solid 2px grey;
     display: flex;
     align-items: center;
     gap: 40px;
@@ -57,7 +53,6 @@
   }
   
   .content {
-    border: 3px solid red;
     display: flex;
     align-items: center;
     justify-content: space-between;
@@ -65,7 +60,6 @@
   
   .content .left {
     margin-left: 2%;
-    border: 2px solid grey;
     width: 50%;
   }
   
@@ -85,7 +79,6 @@
   }
   
   .content .right {
-    border: 2px solid grey;
     width: 50%;
   }
   
